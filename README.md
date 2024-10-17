@@ -1,0 +1,2 @@
+# 15_Dongu_dizi_objelerde_kullanma
+15_Dongu_dizi_objelerde_kullanma
